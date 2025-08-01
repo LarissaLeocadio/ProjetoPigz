@@ -18,11 +18,6 @@ Este app foi desenvolvido como parte de um processo seletivo. É o **meu primeir
 - React Native Screens
 - Safe Area Context
 
-## 🧠 O que eu aprendi
-- Estruturar um projeto React Native usando apenas uma pasta
-- Navegação entre telas com React Navigation
-- Uso de componentes visuais e ícones
-- Como publicar meu primeiro repositório no GitHub
 
 ## ⚙️ Como rodar o projeto
 1. Clone o repositório:
