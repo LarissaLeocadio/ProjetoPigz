@@ -19,26 +19,5 @@ Este app foi desenvolvido como parte de um processo seletivo. É o **meu primeir
 - Safe Area Context
 
 
-## ⚙️ Como rodar o projeto
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/ProjetoPigz.git
-```
-
-2. Acesse a pasta:
-```bash
-cd ProjetoPigz
-```
-
-3. Instale as dependências:
-```bash
-npm install
-```
-
-4. Rode com o Expo:
-```bash
-npx expo start
-```
-
 ## 📬 Contato
 - larissagermanoleo@gmail.com
