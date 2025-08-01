@@ -45,9 +45,5 @@ npm install
 npx expo start
 ```
 
-## ✨ Observações
-Este é meu primeiro projeto no GitHub. Estou aberta a feedbacks e em constante evolução como desenvolvedora.
-
 ## 📬 Contato
-- [Seu LinkedIn aqui]
-- [Seu e-mail aqui]
+- larissagermanoleo@gmail.com
