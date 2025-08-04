@@ -18,7 +18,7 @@ Este app foi desenvolvido como parte de um processo seletivo. É o **meu primeir
 - React Native Screens
 - Safe Area Context
 
-##📲 Como rodar o projeto
+## 📲 Como rodar o projeto
 1. Instale as dependências com `npm install`
 2. Inicie com `npx expo start`
 3. Escaneie o QR code com o app Expo Go no celular
